@@ -41,7 +41,11 @@ npx expo start
 
 O objetivo deste aplicativo é ajudar pessoas que têm dificuldade em controlar seus gastos mensais, permitindo acompanhar entradas, saídas e o saldo disponível.
 
+
+## Link do Aplicativo
+(https://snack.expo.dev/@jooaols/projeto_mobile)
+
 ## Autor
 
 João Lucas Silverio de Santana
-# projeto_mobile
+
